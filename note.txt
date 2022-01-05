@@ -1,0 +1,9 @@
+.divlast{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+
+ style="margin-left: 10%;"

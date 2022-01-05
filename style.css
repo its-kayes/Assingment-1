@@ -43,3 +43,30 @@ body{
     display: inline-block;
     font-size: 16px;
 }
+.emojiwidth{
+    width: 20%;
+    margin-left: 7%;
+    margin-right: 7%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px gray;
+}
+.emojiwidth img{
+    width: 100%;
+}
+.emojimargin{
+    margin: 5%;
+}
+
+.background{
+    background-image: url(files/emoji/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 23%;
+    background-position: 30px 170px;
+}
+.background2{
+    background-image: url(files/emoji/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 14%;
+    background-position: 1220px 430px;
+}
