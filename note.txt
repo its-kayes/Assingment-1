@@ -7,3 +7,18 @@
 
 
  style="margin-left: 10%;"
+
+
+ .aboutme{
+    margin-left: -20;
+}
+.aboutme img{
+    width: 80%;
+}
+.aboutme{
+    margin-left: -3%;
+}
+
+
+
+style="
